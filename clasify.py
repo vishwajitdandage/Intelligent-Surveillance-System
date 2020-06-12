@@ -38,7 +38,7 @@ def video(video_file):
     capture = cv2.VideoCapture(video_file)
     width = int(capture.get(cv2.CAP_PROP_FRAME_WIDTH) )  # float
     height = int(capture.get(cv2.CAP_PROP_FRAME_HEIGHT)) # float
-    seq_length = 10
+    seq_length = 5
     fourcc = cv2.VideoWriter_fourcc(*'mp4v')
     print(video_file)
     video_writer = cv2.VideoWriter( f_name+ "_result.mp4", fourcc, 15, (width,height))
