@@ -14,3 +14,4 @@ and those actions can be identified through smart surveillance system which can 
 to prevent further fatal accidents. On large scale this system can be implemented in several
 locations like streets, parks, medical centers and alert authorities about the violent
 activities.
+LinkedIn Link - https://www.linkedin.com/posts/vishwajit-dandage-530502104_deeplearning-lstm-cnn-activity-6696336249948557315-JzFv
